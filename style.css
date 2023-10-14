@@ -1,11 +1,7 @@
 body{
 	padding:0px 150px;
 }
-@media screen and (max-width: 950px) {
-  body{
-  	padding: 0px;
-  }
-}
+
 img{
   height: 543px;
   width: 1019px;
@@ -19,4 +15,16 @@ img{
 .image{
   height: 50px;
   width: 50px;
+}
+.contact{
+  padding:0px 150px;
+  padding-top:100px;
+}
+@media screen and (max-width: 950px) {
+  body{
+    padding: 0px;
+  }
+  .contact{
+    padding:0px 10px;
+  }
 }
