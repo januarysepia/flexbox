@@ -13,3 +13,6 @@ img{
 .bg-primary{
   background-color: #E9DDD3;
 }
+.container-fluid{
+  padding:0px 15px;
+}
