@@ -16,3 +16,7 @@ img{
 .container-fluid{
   padding:0px 15px;
 }
+.image{
+  height: 50px;
+  width: 50px;
+}
