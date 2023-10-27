@@ -2,10 +2,10 @@ body{
 	padding:0px 150px;
 }
 
-img{
+/*img{
   height: 543px;
   width: 1019px;
-}
+}*/
 .container2{
   display: flex;
   flex-wrap: wrap;
