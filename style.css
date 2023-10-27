@@ -1,11 +1,10 @@
 body{
 	padding:0px 150px;
 }
-
-/*img{
+.d-flex img{
   height: 543px;
   width: 1019px;
-}*/
+}
 .laman{
   display: flex;
   flex-wrap: wrap;
@@ -13,7 +12,7 @@ body{
 
 }
 .card{
-  background-color: yellow;
+  background-color: #FFD1AA;
   border-radius: 5px;
   transition: 300ms;
   width: 490px;
@@ -61,10 +60,5 @@ body{
   .contact{
     padding:0px 10px;
   }
-  .imahe img{
-  margin-top:-30px;
-  height:290px;
-  width: 400px;
-  border-radius: 10px;
-}
+
 }
