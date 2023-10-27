@@ -1,5 +1,5 @@
 body{
-	padding:0px 150px;
+  padding:0px 150px;
 }
 .d-flex img{
   height: 543px;
@@ -15,18 +15,18 @@ body{
   background-color: #FFD1AA;
   border-radius: 5px;
   transition: 300ms;
-  width: 300px;
+  width: 510px;
   margin: 10px;
   margin-bottom: 50px;
 }
 .imahe{
   padding-left:20px;
-
+  padding-right:20px;
 }
 .imahe img{
   margin-top: 30px;
 /*  height:290px;*/
-  width: 280px;
+  width: 470px;
   border-radius: 10px;
 }
 .card:hover{
