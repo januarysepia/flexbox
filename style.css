@@ -13,7 +13,7 @@ body{
 
 }
 .card{
-  background-color: #FFD1AA;
+  background-color: yellow;
   border-radius: 5px;
   transition: 300ms;
   width: 490px;
