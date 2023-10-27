@@ -6,7 +6,7 @@ img{
   height: 543px;
   width: 1019px;
 }
-.container{
+.containerflex{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -33,11 +33,11 @@ img{
 .card:hover{
   transform: scale(1.02);
 }
-.container p{
+.containerflex p{
   padding-left:20px;
   padding-right: 20px;
 }
-.container h2{
+.containerflex h2{
   padding-left:20px;
 }
 .bg-primary{  
