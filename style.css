@@ -24,9 +24,9 @@ body{
 
 }
 .imahe img{
-  margin-top:px;
+  margin-top: 10px;
 /*  height:290px;*/
-  width: 450px;
+  width: 470px;
   border-radius: 10px;
 }
 .card:hover{
